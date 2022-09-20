@@ -1,6 +1,6 @@
 # IBM-Project-2434-1658471717
 <hr/>
-AI based discourse for Banking Industry
+<h2>AI based discourse for Banking Industry</h2>
 <hr/>
 
 <img src = "https://www.inbenta.com/wp-content/uploads/2021/11/conversational-ai-in-banking-1.png" width = "100%" height = "100%" />
