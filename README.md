@@ -7,4 +7,4 @@ AI based discourse for Banking Industry
 <hr/>
 
 <img src = "https://github.com/AjithAju19/files/blob/main/architecture.png"
- width = "250%" height = "250%" />
+ width = "150%" height = "150%" />
