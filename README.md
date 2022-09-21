@@ -7,6 +7,45 @@
 
 <hr/>
 
+<h3>Motivation </h3>
+
+</hr>
+
+Chatbots can be used by banks and other financial institutions to improve business performance and streamline daily tasks.
+
+1. Improved Customer Service
+
+
+
+Conversational AI chatbots are the wave of the future for online banking. The development of banking chatbots has made it easier to provide customers with the care and support they need in a timely manner and in a pleasant environment.
+
+
+
+2. Individualized Banking Experiential
+
+
+
+The newest trend among clients is personalised services catered to each individual's demands. Approximately 63% of customers demand individualised offerings and experiences.
+
+
+
+With the customer's permission to provide such data to the smartBots, chatbots can provide a completely customised digital banking experience that properly fits their demands.
+
+3. Lower Your Expenses
+
+Chatbots in the digital banking and healthcare sectors might result in annual savings of over $8 billion by 2022. Some estimates claim that by implementing artificial intelligence to cut costs by 22%, traditional financial institutions may save $1 trillion by 2030.
+
+4. Improved Risk Reduction
+
+Conversational AI chatbots are able to manage and streamline the process of analysing crucial information pertaining to the loans of potential customers, market trends, and the borrower's most recent financial actions, generating credit reports, and offering risk advise. Chatbots automate processes and lessen human error in fraud detection.
+
+
+5. Increase Productivity & Lower Workload
+
+Customers won't have to wait in line for a teller or hold on the phone while they wring their hands if an AI chatbot can answer their questions. Agents supported by AI smartbots may concentrate on solving complex issues rather than responding to simple client inquiries.
+
+</hr>
+
 <h3>Project Objectives: </h3>
 In this project, we will be building a chatbot using Watson's assistant. This chat should have the following capabilities:
 
