@@ -5,6 +5,23 @@
 
 <img src = "https://www.inbenta.com/wp-content/uploads/2021/11/conversational-ai-in-banking-1.png" width = "100%" height = "50%" />
 
+<hr/>
+
+<h3>Project Objectives: </h3>
+In this project, we will be building a chatbot using Watson's assistant. This chat should have the following capabilities:
+
+
+The Bot should be able to guide a customer to create a bank account.
+The Bot should be able to answer loan queries.
+The Bot should be able to answer general banking queries.
+The Bot should be able to answer queries regarding net banking.
+
+Services Used:
+
+IBM Watson Assistant
+
+</hr>
+
 <h3>Introduction </h3>
 <hr/>
 
