@@ -2,6 +2,10 @@
 <hr/>
 <h2>AI based discourse for Banking Industry</h2>
 
+<b>Team id:</b> PNT2022TMID18026 
+
+<b>Team size:</b> 4
+
 <b>Batch:</b> B8 - 2A4E
 
 <img src = "https://www.inbenta.com/wp-content/uploads/2021/11/conversational-ai-in-banking-1.png" width = "100%" height = "50%" />
