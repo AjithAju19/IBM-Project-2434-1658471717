@@ -8,7 +8,7 @@
 
 <b>Batch:</b> B8 - 2A4E
 
-<img src = "https://www.inbenta.com/wp-content/uploads/2021/11/conversational-ai-in-banking-1.png" style = "display: flex;" width = "50%" height = "25%" />
+<img src = "https://www.inbenta.com/wp-content/uploads/2021/11/conversational-ai-in-banking-1.png" width = "50%" height = "55%" />
 
 <hr/>
 
