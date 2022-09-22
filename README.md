@@ -2,7 +2,7 @@
 <hr/>
 <h2>AI based discourse for Banking Industry</h2>
 
-<pre><h4>Batch:</h4> B8 - 2A4E </pre>
+<b>Batch:</b> B8 - 2A4E
 
 <img src = "https://www.inbenta.com/wp-content/uploads/2021/11/conversational-ai-in-banking-1.png" width = "100%" height = "50%" />
 
